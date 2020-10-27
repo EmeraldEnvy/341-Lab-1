@@ -1,0 +1,27 @@
+Vivado Simulator 2019.2
+Time resolution is 1 ps
+[INFO]::                20000 @Line 40 : AND OPERATION PASSED
+[INFO]::                20000 @Line 45 : AND OPERATION ZERO FLAG PASSED
+[INFO]::                60000 @Line 62 : OR OPERATION PASSED
+[INFO]::                60000 @Line 67 : OR OPERATION ZERO FLAG PASSED
+[INFO]::               100000 @Line 84 : FIRST TEST OF ADD OPERATION PASSED
+[INFO]::               100000 @Line 89 : FISRT TEST OF ADD OPERATION'S CARRY-OUT FLAG PASSED
+[INFO]::               100000 @Line 96 : FISRT TEST OF ADD OPERATION'S OVERFLOW FLAG PASSED
+[INFO]::               140000 @Line 114 : SECOND TEST OF ADD OPERATION PASSED
+[INFO]::               140000 @Line 119 : SECOND TEST OF ADD OPERATION'S CARRY-OUT FLAG PASSED
+[INFO]::               140000 @Line 125 : SECOND TEST OF ADD OPERATION'S OVERFLOW FLAG PASSED
+[INFO]::               180000 @Line 143 : FIRST TEST OF SUB OPERATION PASSED
+[INFO]::               180000 @Line 148 : FISRT TEST OF SUB OPERATION'S ZERO FLAG PASSED
+[INFO]::               180000 @Line 154 : FISRT TEST OF SUB OPERATION'S OVERFLOW FLAG PASSED
+[INFO]::               220000 @Line 171 : SECOND TEST OF SUB OPERATION PASSED
+[INFO]::               220000 @Line 176 : SECOND TEST OF SUB OPERATION'S Zero FLAG PASSED
+[INFO]::               220000 @Line 182 : SECOND TEST OF SUB OPERATION'S OVERFLOW FLAG PASSED
+[INFO]::               260000 @Line 200 : SLT OPERATION PASSED
+[INFO]::               260000 @Line 205 : SLT OPERATION ZERO FLAG PASSED
+[INFO]::               300000 @Line 222 : NOR OPERATION PASSED
+[INFO]::               300000 @Line 227 : NOR OPERATION ZERO FLAG PASSED
+[INFO]::               340000 @Line 244 : == Comp OPERATION PASSED
+[INFO]::               340000 @Line 249 : == Comp OPERATION ZERO FLAG PASSED
+The number of correct test cases are:           9
+The total grade of this strudent is:          60
+$finish called at time : 360 ns : File "C:/Users/Alex/Downloads/tb_top.v" Line 259
